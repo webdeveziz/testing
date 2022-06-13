@@ -1,5 +1,5 @@
 import React from "react";
-import Qualities from "./index";
+import Qualities from "../qualities";
 import { useQuality } from "../../../hooks/useQualities";
 import PropTypes from "prop-types";
 
